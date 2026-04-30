@@ -8,7 +8,7 @@ I enjoy bossing clouds around!
 
 ... _and some databases, message brokers and whatever is currently needed_ :smile:
 
-... _oh and AI_
+... _oh and some AI_
 
 ---
 
